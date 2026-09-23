@@ -54,12 +54,4 @@
                   ▼
       [ FleetSync React Dashboard ]
 
-Getting Started
-Prerequisites
-Ensure you have the following installed locally:
 
-Node.js (v18.x or higher)
-
-Python (v3.10 or higher)
-
-Git
